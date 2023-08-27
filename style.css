@@ -9,11 +9,11 @@ body {
 }
 
 nav-bar {
-  padding-top: 100px;
+  padding: auto;
 }
   
 .splash-screen {
-  height: 40vh;  
+  height: 500px;  
 }
   
 .splash-screen h1 {
@@ -22,16 +22,22 @@ nav-bar {
 }
 
 .splash-screen p {
-  font-size: 1.2rem;
+  font-size: 1.8rem;
 }
 
 .video-container {
   padding: 50px 0px;
 }
 
+.faq-container{
+  height:250px;
+}
+
 .signup-container {
+  height: 250px;
   padding: 10px;
 }
+
 
 input[type="email"] {
   padding: 10px;

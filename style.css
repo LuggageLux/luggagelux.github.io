@@ -3,10 +3,12 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: rgb(40,46,64);
   color: #ffffff;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 
-.nav-bar {
+nav-bar {
   padding: 10px;
 }
   
@@ -28,14 +30,12 @@ body {
 }
 
 .signup-container {
-  padding: 50px;
+  padding: 10px;
 }
 
 input[type="email"] {
   padding: 10px;
-  border: none;
-  border-radius: 5px;
-  margin-bottom: 10px;
+  border-radius: 20px;
 }
 
 button[type="submit"] {

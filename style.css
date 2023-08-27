@@ -9,11 +9,12 @@ body {
 }
 
 h2{
-  font-size: x-large;
+  font-size: 35px;
 }
 
 nav-bar img {
   wight: 125px;
+  height: 125px;
   padding-top: 50px
 }
   

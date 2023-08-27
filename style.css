@@ -4,7 +4,7 @@ body {
   background-color: rgb(40,46,64);
   color: #ffffff;
   text-align: center;
-  }
+}
 
 .nav-bar {
   padding: 10px;
@@ -52,7 +52,7 @@ button[type="submit"]:hover {
   background-color: #ff2600;
 }
 
-.footer{
+footer{
   justify-content: center;
   align-items: center;
 }

@@ -8,6 +8,10 @@ body {
   text-align: center;
 }
 
+h2{
+  font-size: large;
+}
+
 nav-bar {
   padding: auto;
 }

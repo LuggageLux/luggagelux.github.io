@@ -36,11 +36,10 @@ nav-bar img {
 }
 
 .faq-container{
-  height:250px;
+  padding: 25px;
 }
 
 .signup-container {
-  height: 100px;
   padding: 25px;
 }
 
@@ -48,6 +47,7 @@ nav-bar img {
 input[type="email"] {
   padding: 10px;
   border-radius: 20px;
+  width:22%;
 }
 
 button[type="submit"] {

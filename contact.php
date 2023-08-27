@@ -1,5 +1,5 @@
 <?php
-    $visitor_email = $POST['email'];
+    $visitor_email = $_POST['email'];
 
     $email_from = "luggagelux@gmail.com";
     $email_subject = "New Form Submission";

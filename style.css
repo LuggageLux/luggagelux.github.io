@@ -55,12 +55,11 @@ button[type="submit"] {
   color: white;
   border: none;
   border-radius: 5px;
-  padding: 10px 20px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
+  padding: 25px;
 }
 
 footer{
+  padding:25px;
   justify-content: center;
   align-items: center;
 }

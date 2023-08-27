@@ -1,76 +1,60 @@
 body {
-    margin: 0;
-    font-family: 'Poppins', sans-serif;
-    background-color: rgb(40,46,64);
-    color: #ffffff;
-    align-items: center;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(40,46,64);
+  color: #ffffff;
+  text-align: center;
   }
 
-  .nav-bar img{
-    padding-left: 725px;
-    padding-top: 300px;
-    align-items: center;
-  }
+.nav-bar {
+  padding: 10px;
+}
   
-  .splash-screen {
-    background: linear-gradient(rgba(65, 101, 178)), url('splash_image.jpg') center/cover no-repeat;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
-  }
+.splash-screen {
+  height: 100vh;  
+}
   
-  .splash-screen h1 {
-    font-size: 3rem;
-    margin-bottom: 10px;
-  }
-  
-  .splash-screen p {
-    font-size: 1.2rem;
-  }
-  
-  .video-container {
-    padding: 50px 0px;
-  }
-  
-  .signup-container {
-    background-color: rgb(40,46,64);
-    padding: 50px;
-    text-align: center;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-  }
-  
-  
-  form {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-  }
-  
-  input[type="email"] {
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    margin-bottom: 10px;
-  }
-  
-  button[type="submit"] {
-    background-color: #f6b482;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  button[type="submit"]:hover {
-    background-color: #ff9600;
-  }
+.splash-screen h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
 
+.splash-screen p {
+  font-size: 1.2rem;
+}
+
+.video-container {
+  padding: 50px 0px;
+}
+
+.signup-container {
+  padding: 50px;
+}
+
+input[type="email"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  background-color: #e45a50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #ff2600;
+}
+
+.footer{
+  justify-content: center;
+  align-items: center;
+}
 
   

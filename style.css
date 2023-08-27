@@ -48,10 +48,6 @@ button[type="submit"] {
   transition: background-color 0.3s ease;
 }
 
-button[type="submit"]:hover {
-  background-color: #ff2600;
-}
-
 footer{
   justify-content: center;
   align-items: center;

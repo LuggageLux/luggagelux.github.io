@@ -12,8 +12,9 @@ h2{
   font-size: large;
 }
 
-nav-bar {
-  padding: auto;
+nav-bar img {
+  wight: 125px;
+  padding-top: 50px
 }
   
 .splash-screen {
